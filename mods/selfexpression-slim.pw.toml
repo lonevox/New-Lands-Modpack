@@ -1,0 +1,13 @@
+name = "Selfexpression: Slim"
+filename = "selfexpression_slim-1.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QVhoLdVI/versions/nJAQTba3/selfexpression_slim-1.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8abea0455dc292ed798ed05638dedb253cc8b4bbfd1a0ae3902f26ce82bda3a01f9a9a05f0e60e872156cee793636f8ba1c6b4a66bbb64a483f03828c557b5e1"
+
+[update]
+[update.modrinth]
+mod-id = "QVhoLdVI"
+version = "nJAQTba3"

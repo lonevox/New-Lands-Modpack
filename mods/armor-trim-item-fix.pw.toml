@@ -1,0 +1,13 @@
+name = "Armor Trim Item Fix"
+filename = "ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kIhxG5zE/versions/58QHLI6Z/ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "08f00d9a4deadbab18c6d242a55180617bacdc470f2a0d666edf5b01118720121482b784a2d213c6e04e512cdfe1e7460fb1e6896a03d28d3bf28c55285dcddc"
+
+[update]
+[update.modrinth]
+mod-id = "kIhxG5zE"
+version = "58QHLI6Z"

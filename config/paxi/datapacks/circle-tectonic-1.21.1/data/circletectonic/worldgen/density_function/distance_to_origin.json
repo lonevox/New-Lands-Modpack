@@ -1,0 +1,40 @@
+{
+  "type": "moredfs:sqrt",
+  "argument": {
+    "type": "add",
+    "argument1": {
+      "type": "mul",
+      "argument1": {
+        "type": "moredfs:subtract",
+        "argument1": {
+          "type": "moredfs:x"
+        },
+        "argument2": "circletectonic:configurable/offset_x"
+      },
+      "argument2": {
+        "type": "moredfs:subtract",
+        "argument1": {
+          "type": "moredfs:x"
+        },
+        "argument2": "circletectonic:configurable/offset_x"
+      }
+    },
+    "argument2": {
+      "type": "mul",
+      "argument1": {
+        "type": "moredfs:subtract",
+        "argument1": {
+          "type": "moredfs:z"
+        },
+        "argument2": "circletectonic:configurable/offset_z"
+      },
+      "argument2": {
+        "type": "moredfs:subtract",
+        "argument1": {
+          "type": "moredfs:z"
+        },
+        "argument2": "circletectonic:configurable/offset_z"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "effects": [
+    "kubejs:curse_light",
+    "kubejs:curse_particles"
+  ]
+}

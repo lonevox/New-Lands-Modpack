@@ -1,0 +1,9 @@
+{
+  "plushie_peter": {
+    "subtitle": "subtitles.custom_sound",
+    "sounds": [
+      "kubejs:plushie/hey-lois",
+      "kubejs:plushie/lois-im-cu"
+    ]
+  }
+}

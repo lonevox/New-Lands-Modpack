@@ -1,0 +1,10 @@
+{
+  "priority": 101,
+  "style": "kubejs:selfexpression_cave_game_hoodie",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "selfexpression:cave_game_hoodie_chestplate"
+    ]
+  }
+}

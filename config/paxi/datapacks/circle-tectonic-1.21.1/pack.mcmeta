@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Circle Tectonic compatibility datapack: applies radial continent falloff directly to Tectonic's internal continent and island functions (requires More Density Functions)."
+  }
+}

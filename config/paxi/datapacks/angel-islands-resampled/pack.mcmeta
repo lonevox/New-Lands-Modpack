@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": [
+      48,
+      999
+    ],
+    "description": "Resamples Angel Islands island noise without changing the world seed"
+  }
+}

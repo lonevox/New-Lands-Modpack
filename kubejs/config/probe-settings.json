@@ -1,0 +1,11 @@
+{
+    "probejs.classScanning": false,
+    "probejs.complete": true,
+    "probejs.modHash": 3038528528205528820,
+    "probejs.hintsForLLM": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge"
+    ]
+}

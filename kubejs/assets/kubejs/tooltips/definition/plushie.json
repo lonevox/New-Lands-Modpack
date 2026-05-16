@@ -1,0 +1,10 @@
+{
+  "priority": 101,
+  "style": "kubejs:plushie",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "#kubejs:plushie_block"
+    ]
+  }
+}

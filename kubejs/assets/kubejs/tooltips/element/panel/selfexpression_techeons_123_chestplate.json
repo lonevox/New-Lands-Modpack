@@ -1,0 +1,15 @@
+{
+  "type": "obscure_tooltips:color_rect",
+  "background_palette": {
+    "top_left": "#F0100010",
+    "top_right": "#F0100010",
+    "bottom_left": "#F0100010",
+    "bottom_right": "#F0100010"
+  },
+  "border_palette": {
+    "top_left": "#80F00FFF",
+    "top_right": "#8000FFFF",
+    "bottom_left": "#60F00FFF",
+    "bottom_right": "#6000FFFF"
+  }
+}

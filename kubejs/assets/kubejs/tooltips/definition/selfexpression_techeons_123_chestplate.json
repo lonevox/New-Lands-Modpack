@@ -1,0 +1,10 @@
+{
+  "priority": 101,
+  "style": "kubejs:selfexpression_techeons_123_chestplate",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "selfexpression:techeons_123_chestplate"
+    ]
+  }
+}

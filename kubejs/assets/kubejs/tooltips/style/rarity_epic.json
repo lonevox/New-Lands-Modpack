@@ -1,0 +1,10 @@
+{
+  "panel": "kubejs:golden",
+  "frame": "kubejs:golden",
+  "icon": "kubejs:epic",
+  "effects": [
+    "kubejs:epic_ray_glow",
+    "kubejs:epic_icon_particles",
+    "kubejs:epic_shimmer"
+  ]
+}

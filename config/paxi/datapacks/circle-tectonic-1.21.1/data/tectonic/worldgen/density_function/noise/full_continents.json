@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:range_choice",
+  "input": "circletectonic:noise_full_continents_base",
+  "min_inclusive": -1000000.0,
+  "max_exclusive": -1.049,
+  "when_in_range": {
+    "type": "minecraft:range_choice",
+    "input": "circletectonic:configurable/keep_mushroom_islands",
+    "min_inclusive": 0.0,
+    "max_exclusive": 0.1,
+    "when_in_range": -1.049,
+    "when_out_of_range": "circletectonic:noise_full_continents_base"
+  },
+  "when_out_of_range": {
+    "type": "minecraft:add",
+    "argument1": -1.049,
+    "argument2": {
+      "type": "minecraft:mul",
+      "argument1": "circletectonic:center_strength",
+      "argument2": {
+        "type": "minecraft:add",
+        "argument1": "circletectonic:noise_full_continents_base",
+        "argument2": 1.049
+      }
+    }
+  }
+}

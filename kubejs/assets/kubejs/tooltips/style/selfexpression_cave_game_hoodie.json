@@ -1,0 +1,8 @@
+{
+  "panel": "kubejs:selfexpression_cave_game_hoodie",
+  "icon": "kubejs:uncommon",
+  "effects": [
+    "kubejs:selfexpression_cave_game_hoodie_ray_glow",
+    "kubejs:selfexpression_cave_game_hoodie_shimmer"
+  ]
+}

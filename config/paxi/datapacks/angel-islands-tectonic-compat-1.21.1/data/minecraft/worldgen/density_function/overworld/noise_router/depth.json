@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": 0,
+  "argument2": "angel_tectonic_compat:depth/island_mask"
+}

@@ -1,0 +1,7 @@
+{
+  "loadOrder": [
+    "circle_tectonic_1.21.1",
+    "angel-islands-tectonic-compat-1.21.1",
+    "angel-islands-resampled"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "effects": [
+    "kubejs:enchantment_light",
+    "kubejs:enchantment_particles"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "priority": 100,
+  "style": "kubejs:rarity_rare",
+  "filter": {
+    "type": "obscure_tooltips:rarity",
+    "rarity": "rare"
+  }
+}

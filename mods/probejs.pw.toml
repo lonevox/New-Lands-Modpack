@@ -1,0 +1,13 @@
+name = "ProbeJS"
+filename = "ProbeJS-8.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1982dfea630c0df16a355e1df9718eefa35a577"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8073983
+project-id = 585406
