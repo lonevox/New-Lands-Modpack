@@ -1,6 +1,6 @@
 name = "Unnamed Sea"
 filename = "u_sea-1.2.5+mc1.19-1.21.11.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2a8fg8M6/versions/vEr4Tzbr/u_sea-1.2.5%2Bmc1.19-1.21.11.jar"
