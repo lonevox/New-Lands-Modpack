@@ -986,11 +986,6 @@ hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "adaea34e552e64a406a78a3cbcbca8d529052f1a23c9160e9a96e9407c698f3c"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
 hash = "dc24e814f0794ed8cf8e16e6667736049e0763b4204369e07787559007cbcbbd"
 metafile = true
