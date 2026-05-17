@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Nether Fortress Overhaul"
+filename = "dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/gFOIlzcw/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar"
+hash-format = "sha512"
+hash = "f4a391c76f29b4bb4f10c18882ff085ce518bc936fbd01c7ca406267788bc70591c0b1ed53f26b3b77dbf746b17a45b6eccf3092d9eb2024b0a8de0b463c9bfc"
+
+[update]
+[update.modrinth]
+mod-id = "8Dbnvm77"
+version = "gFOIlzcw"
