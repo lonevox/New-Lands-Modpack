@@ -1,6 +1,506 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "83af526bdea41064557a9a6b97eeb31182f10e423313ddb5ef70a085b895b2a4"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "83497bb5f4afb378037cf49683d5004b069199a2d53577c6696f9ef5ceb86161"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "b4eeae72daf2769a05278c169026574a8c3604548ad524cfa6d90599b17c22bb"
+
+[[files]]
+file = "config/lootr-client.toml"
+hash = "928975cdf465dbc9e0ef25480e37dc72789b44fe0e2f7abef7e3814d3a9a778a"
+
+[[files]]
+file = "config/naturaltemperature-common.toml"
+hash = "36304bbffdb65282cf87f1804bbb0e12949a11fa769495aff9ee6ba5474ee81a"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "9531c24977eccde4d7034702478f8824a292333284c21fd5a0f48dd12a858a75"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-resampled/README.md"
+hash = "3075eee0f3841f4d5e2e5bc332febe68a82b5f9a9c6aeb5ec27a1aef3494efae"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-resampled/data/angel_islands/worldgen/density_function/islands/layer1/noise.json"
+hash = "79f8ceeae87d125c436ac182ba5c553250316901b0bacacda5a8bac951dc03ee"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-resampled/data/angel_islands/worldgen/density_function/islands/layer2/noise.json"
+hash = "2e81e5e068c16e062305a694d8d924e9a0778dfd178e2c86e5d6c3c1bad2c694"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-resampled/data/angel_islands/worldgen/density_function/islands/layer3/noise.json"
+hash = "c3ff397700836237179f83fa7977872a05f1c66a7885ae4b969f5e5b9d9d7c46"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-resampled/pack.mcmeta"
+hash = "626b1847c2ef3afd8a0ee835cc838c361f6d70cd86f3e8a84b2a8955a22d9d25"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/README.md"
+hash = "a8d5ecc3bd154b8030c158877abcd55045e6c0a5f373aa8df2a2c1243303400e"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/continents/island_mask.json"
+hash = "1e5a1aa2f05ecb67de8ba1bd8652c51b110972a68b5dd8e3d57403cd34876735"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/depth/island_mask.json"
+hash = "04a319bfa328f319f1ae5dbd96d59a3df353a89263b14d7dd686162de730128c"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/erosion/island_mask.json"
+hash = "df305739a602c2ce95caf78ebf2cd30f4b1a5c4e75520adcea60f5775c67aa0d"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/ridges/island_mask.json"
+hash = "ef32bd2b6b88ba2dd40da94e8df262e1f5af48bfa309a3b776f04645793d49a6"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/continents.json"
+hash = "b7c0c335fc3e3ae1d5f59295d4ba3ad8e9a1028ef71a8ef9502ab8fc4a6cf97a"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/depth.json"
+hash = "92e5658b28b56fa7a3c49f2478a313d6218abc969b2f4b38b421eb9c1a466af6"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/erosion.json"
+hash = "2617d10f147d296d8fe395244e4ab4bebacee3089081da72e34f00f39cddadca"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/final_density.json"
+hash = "8b816b8bd568ed79dc3aef72e6a8381ed85df77b1d7d0d36b2a08efaa4bd1a1f"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/ridges.json"
+hash = "d29f213ec3fc72d2bc1781825f86b495c0095838c9287566b8dc68bc7e6da844"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/temperature.json"
+hash = "e0c9124669917599255d4be597d87437f627d2c882db576278fc438e7d2a94f9"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/tectonic/vegetation.json"
+hash = "35be4fedf9cd72cfec7d0cc01c5a3d499a4303525bfae770cb35aec9c67d13da"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/temperature/island_mask.json"
+hash = "7e0ba2691943dd6bedfb64be900aaa5d00c5c9d3565d4cd497b2641dcb97c99c"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/angel_tectonic_compat/worldgen/density_function/vegetation/island_mask.json"
+hash = "3d06f32ae7c95f088a4dcea72496783e345dc668fdcc398d2207085346e9df7a"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/continents.json"
+hash = "af798db3c206bacd014a58625f66e163adbd798dea21be5f86d0e0b7aa51fdc6"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/depth.json"
+hash = "73d0ca5f5056f37d0ac7364c6a93c3e9a8c77aecb3bcb79256442e8c3fda529c"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/erosion.json"
+hash = "c9b426bb78e718cee840fc6602d1bf406912721419b34c52e1ff08238882b229"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/final_density.json"
+hash = "30fdce89c37260a6aa060c54c03f1bc554b50342b08eebe826f40ee1f80f5723"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/ridges.json"
+hash = "1e7e6f8d2652bd1cd872aa739371c727b06727c31fd8e8e9540d0b19b9a0fd5d"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/temperature.json"
+hash = "286a530a81be5f30de90ea5f5a35fe505dc0ce892a7d003ea27fc4e68f7df4f7"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/data/minecraft/worldgen/density_function/overworld/noise_router/vegetation.json"
+hash = "7ba5996210d0704a80247608c9a6cd4850a6fa896048bf2cbe89de3f9e53be81"
+
+[[files]]
+file = "config/paxi/datapacks/angel-islands-tectonic-compat-1.21.1/pack.mcmeta"
+hash = "5e868d0f6eb080a660c447ae8984bca4bd661f9950f8b4805e3a78a2adf5bbc5"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/README.md"
+hash = "a166c812426f1020de1bd9a5225ada5d96aa12df87ff6f6ac66e42de17192b20"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/base_continent_selector.json"
+hash = "3632ab625281903c7d661d690e6173513c91421b1003c7073be7d9579a2771dd"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/base_island_selector.json"
+hash = "7edf6e8cdb030470d902aab10f8516980368c52e20e92721190c05319317314d"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/center_strength.json"
+hash = "1883ec5fc154cc3ed2a2bbd00ad977b6ef072ddb221a403fcd90a723ce361ff7"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/configurable/falloff_radius.json"
+hash = "792376c209f338959be4cf00c54dbf82662b90516082e23106faec4c43c69e49"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/configurable/keep_mushroom_islands.json"
+hash = "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/configurable/offset_x.json"
+hash = "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/configurable/offset_z.json"
+hash = "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/configurable/unaffected_radius.json"
+hash = "83c02ac2d48c863dab2ccf6870455aadfc2cec073b8db269b517c879d76aa6d9"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/distance_to_origin.json"
+hash = "9255c7a3fba2ddd470a08ce0c8c72c25885e0bc0477dd907694e018895f45de7"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/island_selector_base.json"
+hash = "04263b9a64fc6cddc81cf4a606642bc6528807e7602db5e2b7eb140a375384ba"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/noise_full_continents_base.json"
+hash = "9c80b14fbda89dadd760c5132f5588aab8c12d11d680494e6294d00e93b1e0a1"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/noise_raw_continents_base.json"
+hash = "723fc0bf4e3014a44aeb40d480b0ce4999f82e0c0797541eb293f346e92fcbd9"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/circletectonic/worldgen/density_function/vals/one.json"
+hash = "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/tectonic/worldgen/density_function/continent_selector.json"
+hash = "c7a67576593942c2512e40bd9fab798a561c06ec4f2631149532b768823b430f"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/tectonic/worldgen/density_function/island_selector.json"
+hash = "b9696280a080e38c9b4be1c593ae245c2353ebc0617fa55998fd81a014809459"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/tectonic/worldgen/density_function/noise/full_continents.json"
+hash = "a54993ee3570fac3ec0e4575bdb0025fb0db919e110a1b348bf846deaa0b8707"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/data/tectonic/worldgen/density_function/noise/raw_continents.json"
+hash = "6944d5b6c504e1ee01acf9ac5b488f25a626d905877d15e4c62db0ed7275b0b9"
+
+[[files]]
+file = "config/paxi/datapacks/circle-tectonic-1.21.1/pack.mcmeta"
+hash = "5d182f09845017c18346c92851741c0a3e6e26cdc1b75085d7f566867b44cf7c"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/sounds/chat.json"
+hash = "3c7b5625bfdecf1d4673456b1de753c3d0794893e27d03503de3090a46e37504"
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "339ee23ac9e997cd44775563af92e4c1707fa4114bcca33d1bc4a60d7932b3c1"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "df3ccf55b71a299ee157bff8db7de4b2ef7fcddf08c514b196c496876787a815"
+
+[[files]]
+file = "config/trimseffects-config2.json"
+hash = "b7891b2032e193df2670545b889e36e36e6495da68e90397bd3968e9c01227f9"
+
+[[files]]
+file = "config/voxy-config.json"
+hash = "173f43ef50f894d117180af645194ca3bb7734d0a408a96f7ae7dae3d5f689e4"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds.json"
+hash = "c932b6617e6a6157a9b68cb22dc6331c0e8b429abd9cd033ad2928aa308ab1d9"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/plushie/hey-lois.ogg"
+hash = "e6e8c8521dda26a060705898c20bef1ce61b0e49e011197ff4fd496158b581dd"
+
+[[files]]
+file = "kubejs/assets/kubejs/sounds/plushie/lois-im-cu.ogg"
+hash = "9bda0c945a86516c48c4b4a7ab8403e0ddd1afabb373b1d018fcd2d6d84da140"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/copper_frame.png"
+hash = "9af4d77dbe787c53ff7703656568fb68dc12fd399cfead7d58db8647d6fe389b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/golden_frame.png"
+hash = "6c0504d11912a51c180a322605fe46c6b552cd1a065c372617015d753480f723"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/particle/star.png"
+hash = "6ec46862a7184ceaa54c5fb430845595614cd72db05c81a00e14b185f01f978c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/silver_frame.png"
+hash = "e23d03dba0f35bc4be231b5694e656f22282f6eeec4b58fb033d7097980c2a92"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/loot_bags/common.png"
+hash = "cf12586a9353d576b151c51fdf3b2c104a445d3454bfb49cfa7b42a4eb055def"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/loot_bags/epic.png"
+hash = "a08193a09229fe679a17c2da807aeb3860f22ab9fc41b1c7efc19910e2dfbaf2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/loot_bags/legendary.png"
+hash = "f38aa1b2286afd5d9420f5304cf3a4be6452c65e058c2ef7098d431b34d3516f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/loot_bags/rare.png"
+hash = "05f8008d0593441457a04b250b470e684fff2a6b291538ee711a0d96f4102178"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/loot_bags/uncommon.png"
+hash = "699888356e39bea46a05b184743fb847568acbaa6fdf41016c4d9433956c82a1"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/cursed_items.json"
+hash = "ed112566d2859d4e78c9fda915b2cee62e6ff0259e47b2c0aac18aabf042ea97"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/enchanted_items.json"
+hash = "9dbbc0cb5ae1c9ee1f0f4588ed19c72970e69aaa8de9973f7d52411d7495c2bc"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/epic_items.json"
+hash = "11e48f1212e4378900f55c5d016a09cda135c5011d40559f71360c450f1ed1f2"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/plushie.json"
+hash = "82b4117a125d949e4a9208611e6ff3d1401c8f8c99fa694e8d31e503e74ae86c"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/rare_items.json"
+hash = "e4b6cae95f90881541b19b0690fc6b5b3f2ce5a2f8026ff9343178709ced1c78"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/selfexpression_cave_game_hoodie.json"
+hash = "8ba2a3a1bcdb29364632a1cbe5514c377bd15aa94ea4a2c71a3ae4c48a529196"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/selfexpression_techeons_123_chestplate.json"
+hash = "a2a913b15e60e9f8f412f961c505a56f77faa240432df7439d97bce3a6b5efe0"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/definition/uncommon_items.json"
+hash = "b4c0f3b7d0b1f7dd9bc0cd25861773e01988a7f9ff6c51957b433cf8ee2ca0fb"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/curse_light.json"
+hash = "e5c2dd8d3604bcfe555f713b2d1f1a43dcdef99f83cc8053b2ba78a4790c965d"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/curse_particles.json"
+hash = "40bf822e431fb2c6a9227ba67d0eb2ff27337fca9562137a939449620f09c391"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/enchantment_light.json"
+hash = "bf8866bae546f7defa93161c2d2ccff1c030ece9c1aebd810b39eab0d812e63b"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/enchantment_particles.json"
+hash = "ce77de8d31509050ba6369817215cdfca5c3d588ae396c434446746c14692e24"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/epic_icon_particles.json"
+hash = "16ac4542fb6509f439aa0b0b58d26909336606bab201a33593af3a18f10a8101"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/epic_ray_glow.json"
+hash = "8994e3de708c32be910755e5bd288c8dac8a228b9f34171048d0a5e8df7a8c3f"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/epic_shimmer.json"
+hash = "36f171a8ae32f269b7edea81e9dece04a4468d76165b1b890baa88ca6e15f6eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/plushie_icon_particles.json"
+hash = "5d82f9f7f7cbadca21d0792b13d27f9acba831e9df1a0c92dd59e7205b9ac696"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/selfexpression_cave_game_hoodie_ray_glow.json"
+hash = "c55c698c13f978f0fcc9fe4540094878426ae8ac2ea3aedb93debd914edd878e"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/effect/selfexpression_cave_game_hoodie_shimmer.json"
+hash = "c0c9d87ed85f54f0b97d7ba03d884b6db3e0cc4ae3ee2684b16f95949960f044"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/frame/copper.json"
+hash = "e780e1a1c9b90f2c2a94f510b782506a560c99900bc50eb9216288a189114155"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/frame/golden.json"
+hash = "77fe74d4db7b105faf1eda0a525b90d7294f7d16a512937ea9ead2baa919d426"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/frame/silver.json"
+hash = "1fbd595189aaac8b43139df444b87758b36da4ad26687309a56bd8c2b972c1ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/icon/epic.json"
+hash = "0451930cefb8578691481f873b7327fc9f8ef36a1944c8a4f9f4d68afb68ac02"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/icon/rare.json"
+hash = "8395c5abb3ade2c98bb56ff67b7007fba9c94d628d40b2363d319aa2d182f5f5"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/icon/uncommon.json"
+hash = "8395c5abb3ade2c98bb56ff67b7007fba9c94d628d40b2363d319aa2d182f5f5"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/panel/copper.json"
+hash = "2f5e45b7784fbc0debee6b929195ac8da3985178ba5f2858642e839d89e49a46"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/panel/golden.json"
+hash = "a1df9b297c443cc9d194b87f3cf5e073e02b6b909fff07b294cedf419468fa2a"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/panel/selfexpression_cave_game_hoodie.json"
+hash = "1b0ef7910f12621cff9b27795a7bb175c7d12cd9609ba6dc1e3f16cdd5464e2f"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/panel/selfexpression_techeons_123_chestplate.json"
+hash = "de4fdfda591516ca905a3b8126128b00230783990cdd07b81c939d1c1abdad25"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/element/panel/silver.json"
+hash = "5c491fc0dc718c5828717f53ff5c432b8776bddb5feae6f45bf40a059946d172"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/cursed.json"
+hash = "e83957ddfa9602d03919a46f3596b561d0e96543ac047f8b9082effbb159d22e"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/enchanted.json"
+hash = "9433adb86ff8228040580525ca57265bc493c8f90bf82136a7fc0fc7dfcaad1e"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/plushie.json"
+hash = "b62c90fb60e11d5802ef229e6ce5fad28e42243a2ddead21cb7ca58ffbe54ed3"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/rarity_epic.json"
+hash = "8239c735b15d431df206e8c2f4f7781e2dea7a9414d4bfbb4484d6c8c4fbf02e"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/rarity_rare.json"
+hash = "bc22296839642959b9109af42108d191c3b5aa013a4c7a1b9cdc91e526fbe235"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/rarity_uncommon.json"
+hash = "d1b1b192179edd4f026a8a748ef90378ba2bef6c03e4bb97cb1e376186e125bf"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/selfexpression_cave_game_hoodie.json"
+hash = "5a8ca1add974f9bd2e02faafa3fa12ac5488277e2f1cd888ccd65ed5aa8c0856"
+
+[[files]]
+file = "kubejs/assets/kubejs/tooltips/style/selfexpression_techeons_123_chestplate.json"
+hash = "85c85faea816f552ea2ea3c596438d033ebc24a8e9932fba98f9bc7057fd97eb"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "9609ae200d87e703b32b723db1cf30ee3fde0888046be9210da7e098a084f472"
+
+[[files]]
+file = "kubejs/client_scripts/tooltips.js"
+hash = "e834ed65e4f145e03ff56a1fed8598af17cccabf6b5cef6a3fd9bdc84ff0bacd"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "60e3697e8fc9afd2b462ef3cf6c1423d9d936d8dbaf53e64a10dac5591131bbd"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "b91421c2b0d8aa1843acd33012f19c6fceb136b48253fdb9b8c634d1d92921b1"
+
+[[files]]
+file = "kubejs/data/minecraft/dimension_type/overworld.json"
+hash = "347da0faabf4199cbd6ae72238103660e57bc5bb949223a6bb110b1541a2cdd4"
+
+[[files]]
+file = "kubejs/server_scripts/block_events.js"
+hash = "b6b6d2b725ceb9c89aa824ade339469cf949f2da42a560d95128c05a09c01f2d"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "61ee55355167c18e30c8f69866e9ad7673c977f5de44a0998da425956a236479"
+
+[[files]]
+file = "kubejs/server_scripts/loot_bags.js"
+hash = "5344e9962b67e0d286dc5f0488f1e058260c4a1e24eb1022fe0d56bd8f3c62dc"
+
+[[files]]
+file = "kubejs/server_scripts/map_trades.js"
+hash = "49302a84e0315a01c37cb2e5aef8143222b1268fc8d90100159882e7a7c18f08"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "1110a5df70274cabe19c275f9989c2dddb0fbfe40ba65cc0190e7d9cab8fc10c"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a24c12bac5d64191157b75b7581ab73ca39961b3135fcd4a666c134a87a52fc7"
+
+[[files]]
+file = "kubejs/startup_scripts/loot_bags.js"
+hash = "4ece498261dbb13c7ee690389ad4a266b7e3498808afd64068524f944e63968f"
+
+[[files]]
+file = "kubejs/startup_scripts/sound_registry.js"
+hash = "b1963d79700b5fb3c48304a7143ad316cc3c086a5fb8d3a59b9e77f0b20b39e8"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "04c11efb21bf18fa26f56dee0a29fd9e8d6ffc2d4c3ae33a9bf334ec70bbe672"
 metafile = true
@@ -727,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "367ce13ba351f3f6302f13e0271be1cdb8780df130ee41ad53e2539efd90ea36"
+hash = "f01c401ebc6f28875f3329f4f1b2cab86e42a4dc5b6925697a2f85564f4623ca"
 metafile = true
 
 [[files]]
@@ -867,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "aed0f4afde728964d32491c3fb8268b29b1a94b8e2b5f7eafbae6ad22c096010"
+hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]
@@ -1166,6 +1666,10 @@ hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
 
 [[files]]
+file = "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar"
+hash = "bc155fbb271014d05f5a2356f6d77da2ae42cb22346ea92626d2e68bfa83d6ef"
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
@@ -1184,6 +1688,10 @@ metafile = true
 file = "mods/wits.pw.toml"
 hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
 metafile = true
+
+[[files]]
+file = "mods/world_preview-1.3.1.jar"
+hash = "297cdf3bb040217f99d2e96b4d9c07702ac5337cb1657a69300d135d8daef834"
 
 [[files]]
 file = "mods/xaero-zoomout.pw.toml"

@@ -4,13 +4,21 @@
 # mods
 !/mods
 /mods/.index
+/mods/.connector
 /mods/*.jar*
 /mods/*.disabled
+# Include mod jars here like so:
+# !/mods/my_mod.jar
+!/mods/world_preview-1.3.1.jar
+!/mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar
 
 # resource packs
 !/resourcepacks
 /resourcepacks/*
 !/resourcepacks/*.pw.toml
+
+# kubejs
+!/kubejs
 
 # config
 !/defaultconfigs
@@ -18,3 +26,12 @@
 /config/*
 # Include mod configs here like so:
 # !/config/my_mod_config.json
+!/config/paxi
+!/config/sounds
+!/config/create-server.toml
+!/config/item_obliterator.json5
+!/config/lootr-client.toml
+!/config/naturaltemperature-common.toml
+!/config/trimseffects-config2.json
+!/config/voxy-config.json
+!/config/betterclouds-v1.json

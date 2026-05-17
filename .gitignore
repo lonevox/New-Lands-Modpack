@@ -4,6 +4,7 @@
 # mods
 !/mods
 /mods/.index
+/mods/.connector
 /mods/*.jar*
 /mods/*.disabled
 # Include mod jars here like so:
