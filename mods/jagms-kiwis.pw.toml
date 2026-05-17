@@ -1,0 +1,13 @@
+name = "Jagm's Kiwis"
+filename = "jagmkiwis-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKrJMfxV/versions/yxIkxTNB/jagmkiwis-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "f9b0f55d9c3c08542cf3bafaf12b9938868945aeadd04a9f4c03d0cdf76946249160cb95336188106b83deee5f8f97c9b78c5d798a93eae54f932e0e76b83d5f"
+
+[update]
+[update.modrinth]
+mod-id = "XKrJMfxV"
+version = "yxIkxTNB"

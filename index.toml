@@ -521,8 +521,18 @@ hash = "69377da3eb02f91ca12ded74b9b7c10dee102635cf8b093fd30af992a208be0a"
 metafile = true
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "b6e641648d3dafac84a2a17580cd97d01269523e8cc6ac5f957693f516e04692"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "35709fe6effd2ae0200f21b662448cb602872ea8af8858d2f3b2826df114d75a"
 metafile = true
 
 [[files]]
@@ -563,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
 
 [[files]]
@@ -623,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
 hash = "af113c3d96796fd82f3b6232daab13d9a53c6d5ffdf750bd424be482468f4474"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
@@ -708,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
@@ -911,6 +926,11 @@ hash = "987f762c305a3e6264b3379388467d7d4d90b89a6e08aa83edac0f6172db4f72"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "e9dce7730d04e7d7f44c6216fefa0897b361ece8a74ea4c474f9d986e2c0dcc5"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
@@ -978,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "f466176613569fa62d77533c3bdf7d522a04fcf77375a38c9277403c2d3f15c6"
+metafile = true
+
+[[files]]
+file = "mods/distracting-trims.pw.toml"
+hash = "c12a627fb7bf649507836e8f5760a781cdaa521649330f976c24b72186720eb9"
 metafile = true
 
 [[files]]
@@ -1141,6 +1166,11 @@ hash = "c14defcebe823231795ee9df77bd7a473b0fa2016147f7e465d13a0a38e136c5"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
@@ -1181,6 +1211,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/jagms-kiwis.pw.toml"
+hash = "b6387e6d0eabba5e4c03e7eb99d0691c9349cc0b4b00f89b4be7e6afa21a2985"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
@@ -1198,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "6bd99925d8c80d2032caae90b8a17552b14d9217e9cf9d522e54b303c061b3e2"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
@@ -1281,8 +1321,18 @@ hash = "b49ba7389c85ac7715ea485ff333e7f418bab8ac9cc4f96c13ecb8944e86e8c0"
 metafile = true
 
 [[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
+metafile = true
+
+[[files]]
+file = "mods/modern-world-creation.pw.toml"
+hash = "db66914d9b56888814b4135142661f98a632b1ab666da823d8cb2f6c7dfc9348"
 metafile = true
 
 [[files]]
@@ -1596,6 +1646,11 @@ hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
+file = "mods/spiral-tower-villages.pw.toml"
+hash = "bd74b5b19887b69fb8f3d70f8e0460ab26955152d73721b2e00bf5a113c0a0de"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-create-compat.pw.toml"
 hash = "4514e495c19d9631ad325bc94d0b6ed86085dcda4b3ce46f533a86dce3240143"
 metafile = true
@@ -1631,8 +1686,23 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-splash-milk.pw.toml"
+hash = "ab8345693325af8ee2511fda7a8fae56e613a8717bb01d4d4ae4e0585a42f6d1"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+metafile = true
+
+[[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "b0e3edb9309ceb7976d9cf5fdb5e416f70c654f27b0d648d97cd0ad79ef69342"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
 metafile = true
 
 [[files]]
