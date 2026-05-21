@@ -1,0 +1,13 @@
+name = "Lava Fishing"
+filename = "lavafishing-1.21.1-1.2.13-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/puTJzCb0/versions/SNeCwuCc/lavafishing-1.21.1-1.2.13-all.jar"
+hash-format = "sha512"
+hash = "c70de19536f4466e5d468de94e6648240b3e4f404f8dae1f94d3b3e62aa1f2c42f9c4286a0fda971587aff44e64071fdb0881ee1d20e755346fcd5a16618905c"
+
+[update]
+[update.modrinth]
+mod-id = "puTJzCb0"
+version = "SNeCwuCc"

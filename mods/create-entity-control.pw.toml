@@ -1,0 +1,13 @@
+name = "Create: EntityControl"
+filename = "CreateEntityControl-0.3.8.4-6.0.x-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/43gwKokf/versions/99426ATq/CreateEntityControl-0.3.8.4-6.0.x-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "29fd61f62e74eee24526d15602822932121adb5453d5c38f4ad5c58c554b23ad0a5f7261a878d65dc3c9020e5a4d29e19deea7c4808e044f5f7b019d5ff716c8"
+
+[update]
+[update.modrinth]
+mod-id = "43gwKokf"
+version = "99426ATq"
