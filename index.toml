@@ -785,11 +785,6 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
-file = "mods/coastal-waves.pw.toml"
-hash = "7543f3dbc193d98b67b760b4e7a7a5f5a8bbd58c66d4ebcb13d6729eb6017cff"
-metafile = true
-
-[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
@@ -1042,11 +1037,6 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
-metafile = true
-
-[[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "5dbef16af5f6ba5c4e457b90c6c71e25158397a575f09c637583c10a367377c2"
 metafile = true
 
 [[files]]
