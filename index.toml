@@ -17,6 +17,10 @@ file = "config/lootr-client.toml"
 hash = "928975cdf465dbc9e0ef25480e37dc72789b44fe0e2f7abef7e3814d3a9a778a"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "2bc1fd60e95eeb1a26ea0ecd9d162c8e822983b0e5a12d69a6f32a2052904a5e"
+
+[[files]]
 file = "config/naturaltemperature-common.toml"
 hash = "36304bbffdb65282cf87f1804bbb0e12949a11fa769495aff9ee6ba5474ee81a"
 
