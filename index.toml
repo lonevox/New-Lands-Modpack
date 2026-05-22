@@ -1480,6 +1480,10 @@ hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
+file = "mods/mutil-1.21.1-6.3.1.jar"
+hash = "4c7eef0f81308ff077fff300d8866c11deac01e062c3bebb214b2e8278f2deb7"
+
+[[files]]
 file = "mods/natural-temperature.pw.toml"
 hash = "c788dd63fb699f1b21366de60a3fb68ea4e3bf76840eb5bfef8bdce6bd430e30"
 metafile = true
@@ -1820,6 +1824,10 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tetra-1.21.1-6.13.0.jar"
+hash = "dab55b4668bfa0c9785bc815e2748ee306314fdf9bb5b74ba9fd7cb76b456bfa"
+
+[[files]]
 file = "mods/the-splash-milk.pw.toml"
 hash = "ab8345693325af8ee2511fda7a8fae56e613a8717bb01d4d4ae4e0585a42f6d1"
 metafile = true
@@ -1847,11 +1855,6 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "3072d18000a88e43e937e591d115e96a196bf5e9a7eecdc56f6d2cf71f8cd3b3"
-metafile = true
-
-[[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
 metafile = true
 
 [[files]]
