@@ -9,6 +9,14 @@ file = "config/create-server.toml"
 hash = "83497bb5f4afb378037cf49683d5004b069199a2d53577c6696f9ef5ceb86161"
 
 [[files]]
+file = "config/doubledoors.json5"
+hash = "a23cf3dc63cde5c5f3310265841fe933c7e51b1d54de056694c7adbf02489b3c"
+
+[[files]]
+file = "config/fwa.json"
+hash = "6f6c3e8a5997effa8c1ab3f0ad1b23a2740e1dcececd4caf2c58a49c0ba1779f"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "b4eeae72daf2769a05278c169026574a8c3604548ad524cfa6d90599b17c22bb"
 
@@ -790,6 +798,11 @@ hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "577ad4473d0a330b375d5fbad7836f80c5e42483ea2c243daea353380b8b39d3"
 metafile = true
@@ -1067,6 +1080,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
