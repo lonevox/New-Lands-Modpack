@@ -1200,6 +1200,11 @@ hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+hash = "b3774b94dcdd3aa2cb55264da0f5fe462d091410c2f8d68bda696d5cb248a0af"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true

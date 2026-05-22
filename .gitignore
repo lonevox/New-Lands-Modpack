@@ -38,6 +38,7 @@
 !/config/voxy-config.json
 !/config/betterclouds-v1.json
 !/config/modernfix-mixins.properties
+!/config/fwa.json
 
 ## Git-specific inclusions. These are not in .packwizignore ##
 
