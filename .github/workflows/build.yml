@@ -15,16 +15,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - run : |
-          ./packwiz-download-latest.sh
-      - run : |
-          chmod +x ./packwiz
+      - name: Clone packwiz
+        run: |
+          git clone --depth 1 https://github.com/packwiz/packwiz.git packwiz-src
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: packwiz-src/go.mod
+      - name: Build packwiz
+        run: |
+          cd packwiz-src
+          go build -o "$GITHUB_WORKSPACE/packwiz"
+          cd "$GITHUB_WORKSPACE"
+          rm -rf packwiz-src
       - run: |
-          ./packwiz mr export -o export.zip
+          ./packwiz mr export -o modpack.zip
       - name: Upload Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest-dev
-          files: export.zip
+          files: modpack.zip
           prerelease: true
           generate_release_notes: true
