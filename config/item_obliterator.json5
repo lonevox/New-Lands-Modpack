@@ -16,6 +16,10 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
+    // Broken
+    "petrolsparts:hydraulic_transmission", // Broken on physics contraptions
+
+    // Stop plushie buddies from being crafted (they should only be received from loot bags)
     "plushie_buddies:workbench",
     "plushie_buddies:stuffing",
     "plushie_buddies:thread",
