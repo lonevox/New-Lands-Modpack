@@ -481,6 +481,10 @@ file = "kubejs/data/minecraft/dimension_type/overworld.json"
 hash = "347da0faabf4199cbd6ae72238103660e57bc5bb949223a6bb110b1541a2cdd4"
 
 [[files]]
+file = "kubejs/data/tetra/advancement/upgrades/sword_improvement_hone.json"
+hash = "ea5af6243aac70935d490e943c0fcc7a807259a28d72daa6548b871b8f68c1f4"
+
+[[files]]
 file = "kubejs/server_scripts/block_events.js"
 hash = "b6b6d2b725ceb9c89aa824ade339469cf949f2da42a560d95128c05a09c01f2d"
 
