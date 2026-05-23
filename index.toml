@@ -693,6 +693,11 @@ hash = "45cd62c89a6582119da9f72542a4f2453f491bb5e6288bf9bda1b5d39179e351"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "0ab9d26c800d8bfc998341bf2d34c91238dbcba1f646f2c57705c1760148cc17"
 metafile = true
@@ -893,6 +898,11 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
@@ -915,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "59ca697b09cd2339e6bbd524828fed73fa842083846e950a555aa081fedb6c63"
 metafile = true
 
 [[files]]
@@ -950,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
@@ -1023,6 +1043,11 @@ hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -1035,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/createlazytick.pw.toml"
 hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
@@ -1170,6 +1200,11 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "6f5828b1dc08ba199fa350e06dddf8d9d8e1f2edd35501ca423d385a67a07fc7"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
+hash = "5135cb75af54eb83a61156dd252d19f308b8674d0c5fd778da568527bf6031d3"
 metafile = true
 
 [[files]]
@@ -1425,6 +1460,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
+metafile = true
+
+[[files]]
+file = "mods/map-tooltip.pw.toml"
+hash = "4c5f138c32acef9de64a278642140c78c96fd467e8d640fa5a80f4e2caef7731"
 metafile = true
 
 [[files]]
@@ -1782,6 +1822,11 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-perfected.pw.toml"
 hash = "c1a28fbeef98eab558168f4320604b6938b95e63ca7e64f9955ddeded1597960"
 metafile = true
@@ -1888,6 +1933,11 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "a0e335d1f72c93571ed78abaf7ae038ddc66e35ef8706f07b60f5eaee6ae1375"
 metafile = true
 
 [[files]]
