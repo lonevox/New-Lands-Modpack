@@ -822,6 +822,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "cd8078f4d044e9fb548c2b792f2f1f1c04e1b80e1479446f67de3e8687dfbf67"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "f290bb9c6a9e64db1910c0534f1a0b1b0be5be0b5a8f7143933c60cbc2982fce"
 metafile = true
