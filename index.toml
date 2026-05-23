@@ -1463,6 +1463,11 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/map-distance-fix.pw.toml"
+hash = "3e8868b6d65cdb4a0be84ab4c8d3f456af09830858429a5b89dc3483fc9f2864"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "4c5f138c32acef9de64a278642140c78c96fd467e8d640fa5a80f4e2caef7731"
 metafile = true
@@ -1869,6 +1874,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
+metafile = true
+
+[[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "99fc99ffa47e10c8d8b59fa13c0c0b71c0356e44f18467a24dbce45a3d81129a"
 metafile = true
 
 [[files]]
