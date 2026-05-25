@@ -1,0 +1,13 @@
+name = "Spirit Walker"
+filename = "spirit-walker-0.1.6+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zbX4s3vj/versions/f7VBRrHR/spirit-walker-0.1.6%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "804e3a91343466b759f2183253322068b83754d237973cf5d4375ba493b456d0f8fecae236af967cf46097a6727894f94e76cdd73a13dd8f2d27854a173bbe23"
+
+[update]
+[update.modrinth]
+mod-id = "zbX4s3vj"
+version = "f7VBRrHR"

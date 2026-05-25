@@ -1,0 +1,13 @@
+name = "Create: More Features"
+filename = "create_mf-0.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bx3EyygU/versions/Aav95h8z/create_mf-0.1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "50a3a3ed8788fa8dccf2777465f78b9c6acb9fc4fbf134f11c9e32415dc483118f9da8c91f346d8e546a9d339381ffde3ca272e51c74ebfa7b38a60009906ad0"
+
+[update]
+[update.modrinth]
+mod-id = "bx3EyygU"
+version = "Aav95h8z"

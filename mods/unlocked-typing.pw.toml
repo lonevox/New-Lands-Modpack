@@ -1,0 +1,13 @@
+name = "Unlocked Typing"
+filename = "unlocked_typing-merged-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mi8k2ip4/versions/pUWKEJiZ/unlocked_typing-merged-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "66d290cb7ca56037afb6d5592ee80c2c9f6a28daa416ee0428bc43705196ab8c6cdf98c45088329651190bb4ac6c2fe9cddc51087b53c015c4b6eb8282c4c8a5"
+
+[update]
+[update.modrinth]
+mod-id = "Mi8k2ip4"
+version = "pUWKEJiZ"

@@ -1,0 +1,13 @@
+name = "Enchantments Encore"
+filename = "enchantments-encore-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GD1QoExk/versions/G0Ilv4nD/enchantments-encore-1.8.jar"
+hash-format = "sha512"
+hash = "154a56ea445e2d96159cb1f9b18d50e4237bd4ced04ffef969b8c8f387ab82f397b0b6f804fa42bfb9a3b2ba9123d6c1d0bfa6b38c9169f8f3c6c6ad14353f3a"
+
+[update]
+[update.modrinth]
+mod-id = "GD1QoExk"
+version = "G0Ilv4nD"
