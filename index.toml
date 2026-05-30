@@ -1046,6 +1046,11 @@ hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
+metafile = true
+
+[[files]]
 file = "mods/create-nowheel.pw.toml"
 hash = "ac46ace915d57a24f4c990941151193764b622ebc60b147e0e9fa75125490763"
 metafile = true
@@ -1128,11 +1133,6 @@ metafile = true
 [[files]]
 file = "mods/createlazytick.pw.toml"
 hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
-metafile = true
-
-[[files]]
-file = "mods/createnuclear.pw.toml"
-hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
