@@ -1,6 +1,6 @@
 name = "Disconnect Packet Fix"
 filename = "disconnect-packet-fix-neoforge-2.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rd9rKuJT/versions/yjTKEIL5/disconnect-packet-fix-neoforge-2.0.1.jar"

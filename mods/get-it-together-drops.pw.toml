@@ -1,6 +1,6 @@
 name = "Get It Together, Drops!"
 filename = "getittogetherdrops-neoforge-1.21.5-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T0OUgf8P/versions/K4TUzlwa/getittogetherdrops-neoforge-1.21.5-1.4.jar"

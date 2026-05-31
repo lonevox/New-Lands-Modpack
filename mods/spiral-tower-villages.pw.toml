@@ -1,6 +1,6 @@
 name = "Lios Spiral Tower Villages"
 filename = "spiral_tower_village-0.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/axDrRQEw/versions/CDwhH6U0/spiral_tower_village-0.0.3.jar"

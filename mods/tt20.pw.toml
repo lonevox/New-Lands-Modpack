@@ -1,6 +1,6 @@
 name = "TT20 (TPS Fixer)"
 filename = "tt20-0.8.0+mc1.21.1-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YS3ZignI/versions/BAEuKWlt/tt20-0.8.0%2Bmc1.21.1-neoforge.jar"
