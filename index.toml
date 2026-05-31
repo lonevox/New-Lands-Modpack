@@ -462,6 +462,10 @@ file = "kubejs/assets/kubejs/tooltips/style/selfexpression_techeons_123_chestpla
 hash = "85c85faea816f552ea2ea3c596438d033ebc24a8e9932fba98f9bc7057fd97eb"
 
 [[files]]
+file = "kubejs/assets/simplytooltips/item_themes/mappings.json"
+hash = "566c655a25463c835da9b77c3f9992203ab4a7bef4181b091ee4f84945b4ffa0"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "9609ae200d87e703b32b723db1cf30ee3fde0888046be9210da7e098a084f472"
 

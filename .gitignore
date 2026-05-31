@@ -28,7 +28,6 @@
 /config/*
 # Include mod configs here like so:
 # !/config/my_mod_config.json
-!/config/paxi
 !/config/sounds
 !/config/create-server.toml
 !/config/item_obliterator.json5
@@ -41,6 +40,10 @@
 !/config/fwa.json
 !/config/doubledoors.json5
 !/config/advancements_reloaded.toml
+
+# paxi
+!/config/paxi
+/config/paxi/resourcepacks/mod-descriptions-*.zip
 
 ## Git-specific inclusions. These are not in .packwizignore ##
 
