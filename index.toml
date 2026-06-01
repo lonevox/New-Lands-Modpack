@@ -21,10 +21,6 @@ file = "config/fwa.json"
 hash = "6f6c3e8a5997effa8c1ab3f0ad1b23a2740e1dcececd4caf2c58a49c0ba1779f"
 
 [[files]]
-file = "config/item_obliterator.json5"
-hash = "2dba36f5d241ed41faca6f0c7d24e442215b4d7a63757017ff18f97f9523d936"
-
-[[files]]
 file = "config/lootr-client.toml"
 hash = "928975cdf465dbc9e0ef25480e37dc72789b44fe0e2f7abef7e3814d3a9a778a"
 
@@ -234,6 +230,10 @@ hash = "ee6875d563832c7d3eb382e3ca1d93b8f8cf73888f21a9a861f4fe2e00809d5c"
 metafile = true
 
 [[files]]
+file = "config/reliable_remover/enchantments.json"
+hash = "e7d5b4e89834be2336fc9e3f67b4fcd8d378e8496617aef9301b69cde0e0b218"
+
+[[files]]
 file = "config/sounds/chat.json"
 hash = "3c7b5625bfdecf1d4673456b1de753c3d0794893e27d03503de3090a46e37504"
 
@@ -259,7 +259,7 @@ hash = "b7891b2032e193df2670545b889e36e36e6495da68e90397bd3968e9c01227f9"
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "173f43ef50f894d117180af645194ca3bb7734d0a408a96f7ae7dae3d5f689e4"
+hash = "73604a550036034031cffa0ac3e4e8d4050bc91e4fa6e170db78d750a7174e5c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1470,11 +1470,6 @@ hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -1819,11 +1814,6 @@ hash = "35d1166489a6f341cc045ca4e08cad69ce23ccea1db397e78da65fdebc53cfc5"
 metafile = true
 
 [[files]]
-file = "mods/random-enchant-fix.pw.toml"
-hash = "d7d82eefaaefacfbdb490f09c41411d509c40025564af2be1f4fbd08eb502acd"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "e3e04f1664902e639c5d1df39cc8085fdece053827479b452ac728bcd3604c13"
 metafile = true
@@ -1841,6 +1831,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "9a31ed8afe1b0c2c5741d3fa11d193478055521224ae2f5bd6cbe638ebd256c6"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "b787d4e4d0712ceceaee7cb3c3608f70ecc58b896cd3432e9bb34d505176c299"
 metafile = true
 
 [[files]]

@@ -1,0 +1,32 @@
+[
+    {
+        "action": "remove_enchantment",
+        "registry": [
+            "nova_structures:shulker_boss",
+            "nova_structures:shulker_miniboss",
+            "nova_structures:boss_behaviour"
+        ]
+    },
+    {
+        "action": "remove_info",
+        "items": [
+            "minecraft:enchanted_book"
+        ],
+        "components": [
+            ".*nova_structures:shulker_boss.*",
+            ".*nova_structures:shulker_miniboss.*",
+            ".*nova_structures:boss_behaviour.*"
+        ]
+    },
+    {
+        "action": "remove",
+        "items": [
+            "minecraft:enchanted_book"
+        ],
+        "components": [
+            ".*nova_structures:shulker_boss.*",
+            ".*nova_structures:shulker_miniboss.*",
+            ".*nova_structures:boss_behaviour.*"
+        ]
+    }
+]

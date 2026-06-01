@@ -28,9 +28,9 @@
 /config/*
 # Include mod configs here like so:
 # !/config/my_mod_config.json
+!/config/reliable_remover
 !/config/sounds
 !/config/create-server.toml
-!/config/item_obliterator.json5
 !/config/lootr-client.toml
 !/config/naturaltemperature-common.toml
 !/config/trimseffects-config2.json
