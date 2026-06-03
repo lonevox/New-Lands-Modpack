@@ -6,7 +6,7 @@ hash = "ca08a7824d2042fd5f68f8e5191f3948d6a289a455273cd7911c03d81d1ef1ca"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "83af526bdea41064557a9a6b97eeb31182f10e423313ddb5ef70a085b895b2a4"
+hash = "e2f183859acc09bf588c67748af8fcc1ea5e476b88d96f09456b34283f5936e2"
 
 [[files]]
 file = "config/create-server.toml"
@@ -30,7 +30,7 @@ hash = "2bc1fd60e95eeb1a26ea0ecd9d162c8e822983b0e5a12d69a6f32a2052904a5e"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "36304bbffdb65282cf87f1804bbb0e12949a11fa769495aff9ee6ba5474ee81a"
+hash = "d81d8f8bf089b802ef804be7455ba1a3f3408d28975a409a2581325672fce188"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -543,7 +543,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "60e3697e8fc9afd2b462ef3cf6c1423d9d936d8dbaf53e64a10dac5591131bbd"
+hash = "9d3aa868b292f928488cb07a605c2d65083abacae5d11f4b7baf18ae08cc0934"
 
 [[files]]
 file = "kubejs/config/web_server.json"

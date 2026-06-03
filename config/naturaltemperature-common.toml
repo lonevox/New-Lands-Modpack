@@ -111,3 +111,9 @@ custom_mode_id_3 = "default"
 custom_mode_id_4 = "default"
 #ID of the custom mode to use when generation_mode = 105
 custom_mode_id_5 = "default"
+#Positive values will move the humidity bands to the west, negative ones to the east
+# Default: 0.0
+# Range: -6.0E12 ~ 6.0E12
+info_humidity_offset = 0.0
+#This will enable or disable the gui button on main menu
+show_gui_button = true
