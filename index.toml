@@ -1729,7 +1729,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
-hash = "3e8868b6d65cdb4a0be84ab4c8d3f456af09830858429a5b89dc3483fc9f2864"
+hash = "b259bff44ebf9113c7e8a473b16873791d9724aec0196548d66f851dd3d995bd"
 metafile = true
 
 [[files]]
