@@ -1,0 +1,41 @@
+{
+    "key": "crystal",
+    "category": "gem",
+    "primary": 6,
+    "secondary": 2.7,
+    "tertiary": 0,
+    "durability": 850,
+    "integrityCost": 2,
+    "integrityGain": 2,
+    "magicCapacity": 102,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 8,
+    "tints": {
+        "glyph": "a6acf9",
+        "texture": "a6acf9"
+    },
+    "textures": [
+        "crystalline",
+        "shiny",
+        "crude"
+    ],
+    "textureOverrides": [
+        "item/module/double/head/basic_axe/",
+        "item/module/double/head/basic_pickaxe/",
+        "item/module/double/head/butt/",
+        "item/module/double/head/hoe/",
+        "item/module/single/head/basic_shovel/",
+        "item/module/sword/blade/basic/",
+        "item/module/sword/guard/makeshift_guard/",
+        "item/module/sword/pommel/decorative_pommel/"
+    ],
+    "improvements": {
+        "quickLearner": 0
+    },
+    "material": {
+        "items": [ "phantasm:crystal_shard" ]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}

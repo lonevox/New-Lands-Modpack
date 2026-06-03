@@ -1,0 +1,10 @@
+[
+    {
+        "key": "butt/crystalline",
+        "models": [
+            {
+                "location": "tetra:item/module/double/head/butt/crystalline"
+            }
+        ]
+    }
+]

@@ -466,6 +466,66 @@ file = "kubejs/assets/simplytooltips/item_themes/mappings.json"
 hash = "566c655a25463c835da9b77c3f9992203ab4a7bef4181b091ee4f84945b4ffa0"
 
 [[files]]
+file = "kubejs/assets/tetra/lang/en_us.json"
+hash = "88b1f4fa43dd01ec9ca275ec3872e162802072220f240403913ad518ff78430e"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/handle/basic/improvements/crystalline_axe_shovel.png"
+hash = "651b2757b385f2b0e83880433cb87c2096e44808d3264d7eb20b900f38f20537"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/handle/basic/improvements/crystalline_pickaxe_hoe.png"
+hash = "8d0d1b29e96409eaa46987a6b5b575fab65c3cf37a77af26ecbd719a86084436"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/basic_axe/crystalline_left.png"
+hash = "93f9fce0bd3ccad4e92b1fa483eb71032684f45ffc162e89fc330db5c7f0ccd7"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/basic_axe/crystalline_right.png"
+hash = "fb03d5aef201f7b3bc11198099646409ecde654fb9e623b3e73267189dbc35e8"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/basic_pickaxe/crystalline_left.png"
+hash = "9afcc8ca534a44b4b2f925b05d92b825c0605d3e4a5e73e2e15c2c7304541d65"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/basic_pickaxe/crystalline_right.png"
+hash = "38cc17f6691ad7c83a3cbd6a12c169bd48acb76d2074739ef7a10ac0888f0c36"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/butt/crystalline_right.png"
+hash = "612c886b9e0884ace738189f33aad5000d5bd83d832684bfeb3258f62688e617"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/hoe/crystalline_left.png"
+hash = "b330e9f5304db8e36f31d4374070d7a85d7e07ce73ac598ff362d00cf51b5f34"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/double/head/hoe/crystalline_right.png"
+hash = "32bc38e7470d4502f9d81c7a40c5773e96ec80d6fdb344a17aad8b2863ab054f"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/single/handle/improvements/crystalline_axe_shovel.png"
+hash = "651b2757b385f2b0e83880433cb87c2096e44808d3264d7eb20b900f38f20537"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/single/head/basic_shovel/crystalline.png"
+hash = "2ecc365812a02eb2d3651270bf6e97e7d32529cbacff7432a356cefcf9cdb563"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/sword/blade/basic/crystalline.png"
+hash = "d8705b07db52f0bbc359c077a4505a914c06260a80b0f9831b16cb36c25479ac"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/sword/guard/makeshift_guard/crystalline.png"
+hash = "5ebb030481c2bbfb039a97e5a5093ba97a7677f546bc78e507c41d04aadc0f39"
+
+[[files]]
+file = "kubejs/assets/tetra/textures/item/module/sword/pommel/decorative_pommel/crystalline.png"
+hash = "05b0bb3a5e989bb6f0d0b1f63039b350c8b7874020257e248a58e5825aec78e9"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "9609ae200d87e703b32b723db1cf30ee3fde0888046be9210da7e098a084f472"
 
@@ -498,6 +558,62 @@ file = "kubejs/data/tetra/advancement/upgrades/sword_improvement_hone.json"
 hash = "ea5af6243aac70935d490e943c0fcc7a807259a28d72daa6548b871b8f68c1f4"
 
 [[files]]
+file = "kubejs/data/tetra/improvements/double/axe/crystalline.json"
+hash = "5bea3430c80c0899ba7fbb430782f7fc8b9a48659969815221344faaf1ca3633"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/double/basic_handle/crystalline_axe_shovel.json"
+hash = "2fc0679f7f853bc9d15149c0d72b481ae25f1f212589efcfb032abeed287c01a"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/double/basic_handle/crystalline_pickaxe_hoe.json"
+hash = "2ed5ee3537e2c10a38b0cdd7fd0fdc433f240aca30ec8f23041b1c296da5c6cb"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/double/butt/crystalline.json"
+hash = "f39ad379e66a06e1ca20a5c4c4d0a337e0f238f0dd2fca977fba4590bc18f897"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/double/hoe/crystalline.json"
+hash = "fd4c7f45d5dd52c196669ea1e25ee8d72b0a6211fadae5f2a10d9d9096aacd09"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/double/pickaxe/crystalline.json"
+hash = "48295d845cbf9fe318ae90e34cbc5fa9c669c777e4aae56618daf5687c44c6d4"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/shared/quick_learner.json"
+hash = "1e1779afb7708f16f8b609ec5f34061c7efd7d40fa272f76b6caf5a6c362caba"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/single/basic_handle/crystalline_axe_shovel.json"
+hash = "23d126675fc42a659635626de50e686f4941114b9a6455a91ac939de350e9708"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/single/shovel/crystalline.json"
+hash = "244b0b693d06cf810ab1268a7ff404c0c161ace0969e22bdae6bafe1bf07821e"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/sword/basic_blade/crystalline.json"
+hash = "12585eedaa812767cdc062d75193b4919d3b77a61cb29e21386b56f4fbaecd05"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/sword/decorative_pommel/crystalline.json"
+hash = "a836f7c78854f6f2267c28aa0a9eda5c0a09f4ee899b727387df601030677db8"
+
+[[files]]
+file = "kubejs/data/tetra/improvements/sword/makeshift_guard/crystalline.json"
+hash = "4c4811970d34f5af4f80fb0fe698cf0608947575c6619b994b8e4bbe242649b6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/crystal.json"
+hash = "69cce8656e65c1daeaa5b776ddcbba1f3afab76f788667c8a40ce361940ed21d"
+
+[[files]]
+file = "kubejs/data/tetra/replacements/material/crystal.json"
+hash = "0b4eb68dcc0444551416b6c531ab33d5837a3861a70b3314c2829cad81316cbf"
+
+[[files]]
 file = "kubejs/server_scripts/block_events.js"
 hash = "b6b6d2b725ceb9c89aa824ade339469cf949f2da42a560d95128c05a09c01f2d"
 
@@ -528,6 +644,10 @@ hash = "4ece498261dbb13c7ee690389ad4a266b7e3498808afd64068524f944e63968f"
 [[files]]
 file = "kubejs/startup_scripts/sound_registry.js"
 hash = "b1963d79700b5fb3c48304a7143ad316cc3c086a5fb8d3a59b9e77f0b20b39e8"
+
+[[files]]
+file = "kubejs/startup_scripts/tetra_crystal_xp_boost.js"
+hash = "0019eb5bb3fd9b9bd22b7747a60962554a402d27dff6fc1e4cb23ef7bcae33c7"
 
 [[files]]
 file = "mods/abridged.pw.toml"

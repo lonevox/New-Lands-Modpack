@@ -1,0 +1,10 @@
+[
+    {
+        "key": "makeshift_guard/crystalline",
+        "models": [
+            {
+                "location": "tetra:item/module/sword/guard/makeshift_guard/crystalline"
+            }
+        ]
+    }
+]

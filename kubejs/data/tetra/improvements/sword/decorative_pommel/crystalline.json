@@ -1,0 +1,10 @@
+[
+    {
+        "key": "decorative_pommel/crystalline",
+        "models": [
+            {
+                "location": "tetra:item/module/sword/pommel/decorative_pommel/crystalline"
+            }
+        ]
+    }
+]

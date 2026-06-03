@@ -1,0 +1,10 @@
+[
+    {
+        "key": "basic_handle/crystalline_pickaxe_hoe",
+        "models": [
+            {
+                "location": "tetra:item/module/double/handle/basic/improvements/crystalline_pickaxe_hoe"
+            }
+        ]
+    }
+]

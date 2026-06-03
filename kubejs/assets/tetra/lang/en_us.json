@@ -1,0 +1,6 @@
+{
+    "tetra.material.crystal": "Crystal",
+    "tetra.material.crystal.prefix": "Crystalline",
+    "tetra.improvement.quickLearner.name": "Quick Learner",
+    "tetra.improvement.quickLearner.description": "Increases the speed of this item depending on your experience level"
+}

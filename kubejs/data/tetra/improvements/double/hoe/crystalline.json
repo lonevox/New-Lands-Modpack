@@ -1,0 +1,10 @@
+[
+    {
+        "key": "hoe/crystalline",
+        "models": [
+            {
+                "location": "tetra:item/module/double/head/hoe/crystalline"
+            }
+        ]
+    }
+]

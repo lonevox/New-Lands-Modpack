@@ -1,0 +1,10 @@
+[
+    {
+        "key": "pickaxe/crystalline",
+        "models": [
+            {
+                "location": "tetra:item/module/double/head/basic_pickaxe/crystalline"
+            }
+        ]
+    }
+]
