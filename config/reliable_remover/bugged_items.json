@@ -2,7 +2,8 @@
   {
     "action": "remove",
     "items": [
-      "petrolsparts:hydraulic_transmission"
+      "petrolsparts:hydraulic_transmission",
+      "create_mf:incomplete_diamond"
     ]
   }
 ]

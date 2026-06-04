@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "config/reliable_remover/bugged_items.json"
-hash = "b04d0accf8baa8940191665803c6fc691327a9420d792016bc87b9f9c69aad8c"
+hash = "665de1c1b21a45a61f6e8630d22f9c211ed1d5e1cd6c683b8e4be66230b53d17"
 
 [[files]]
 file = "config/reliable_remover/enchantments.json"
