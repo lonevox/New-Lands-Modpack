@@ -574,6 +574,10 @@ file = "kubejs/data/biomeswevegone/worldgen/structure_set/lush_arch.json"
 hash = "1cc7956cb87eca615892f741088c30bdbf585a20d00f2bdbf7bfbed740f5e70b"
 
 [[files]]
+file = "kubejs/data/create_mf/worldgen/placed_feature/sulfur_ore.json"
+hash = "9e9a192ef09cdf988e713574b605b9ec6c14abbcae1fc4df6edb68afe64cb3fe"
+
+[[files]]
 file = "kubejs/data/minecraft/dimension_type/overworld.json"
 hash = "347da0faabf4199cbd6ae72238103660e57bc5bb949223a6bb110b1541a2cdd4"
 
