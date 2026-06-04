@@ -30,7 +30,7 @@ hash = "2bc1fd60e95eeb1a26ea0ecd9d162c8e822983b0e5a12d69a6f32a2052904a5e"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "d81d8f8bf089b802ef804be7455ba1a3f3408d28975a409a2581325672fce188"
+hash = "bbd273d5411444b68254a633562ca1de416a57b30b0c81c82ad8629901243c65"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
