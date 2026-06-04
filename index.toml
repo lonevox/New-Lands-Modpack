@@ -230,8 +230,16 @@ hash = "ee6875d563832c7d3eb382e3ca1d93b8f8cf73888f21a9a861f4fe2e00809d5c"
 metafile = true
 
 [[files]]
+file = "config/reliable_remover/bugged_items.json"
+hash = "b04d0accf8baa8940191665803c6fc691327a9420d792016bc87b9f9c69aad8c"
+
+[[files]]
 file = "config/reliable_remover/enchantments.json"
 hash = "e7d5b4e89834be2336fc9e3f67b4fcd8d378e8496617aef9301b69cde0e0b218"
+
+[[files]]
+file = "config/reliable_remover/items.json"
+hash = "d0c9d00704143b08a0c9a5c1b2734af9e38e0c260e58b7bc018d62c9f2b682cb"
 
 [[files]]
 file = "config/sounds/chat.json"

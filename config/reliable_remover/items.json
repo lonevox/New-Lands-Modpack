@@ -1,0 +1,12 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "plushie_buddies:workbench",
+      "plushie_buddies:stuffing",
+      "plushie_buddies:thread",
+      "plushie_buddies:sewing_needle",
+      "plushie_buddies:fabric"
+    ]
+  }
+]
