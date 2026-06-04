@@ -666,6 +666,10 @@ file = "kubejs/server_scripts/map_trades.js"
 hash = "49302a84e0315a01c37cb2e5aef8143222b1268fc8d90100159882e7a7c18f08"
 
 [[files]]
+file = "kubejs/server_scripts/recipe_removal.js"
+hash = "7f30a240e9e69948c2e61a7e9de63f48ddba2da6ccc6b898e1a518c056f5b308"
+
+[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "1110a5df70274cabe19c275f9989c2dddb0fbfe40ba65cc0190e7d9cab8fc10c"
 
