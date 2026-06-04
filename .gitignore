@@ -40,6 +40,9 @@
 !/config/fwa.json
 !/config/doubledoors.json5
 !/config/advancements_reloaded.toml
+!/config/biomeswevegone
+/config/biomeswevegone/*
+!/config/biomeswevegone/world_generation.json5
 
 # paxi
 !/config/paxi

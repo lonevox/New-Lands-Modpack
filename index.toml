@@ -9,6 +9,10 @@ file = "config/betterclouds-v1.json"
 hash = "e2f183859acc09bf588c67748af8fcc1ea5e476b88d96f09456b34283f5936e2"
 
 [[files]]
+file = "config/biomeswevegone/world_generation.json5"
+hash = "d8518dfd973f51dc28528f6a3e1ffbed29cb3790c33dda94c2570fcff0685fe5"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "83497bb5f4afb378037cf49683d5004b069199a2d53577c6696f9ef5ceb86161"
 
@@ -267,7 +271,7 @@ hash = "b7891b2032e193df2670545b889e36e36e6495da68e90397bd3968e9c01227f9"
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "73604a550036034031cffa0ac3e4e8d4050bc91e4fa6e170db78d750a7174e5c"
+hash = "173f43ef50f894d117180af645194ca3bb7734d0a408a96f7ae7dae3d5f689e4"
 
 [[files]]
 file = "kubejs/README.txt"
