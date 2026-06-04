@@ -9,6 +9,10 @@ file = "config/betterclouds-v1.json"
 hash = "e2f183859acc09bf588c67748af8fcc1ea5e476b88d96f09456b34283f5936e2"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "6474e5995164b59af0263d68a115567bbbf2ab2cc2cbac395d2a77573c3c01f1"
+
+[[files]]
 file = "config/biomeswevegone/world_generation.json5"
 hash = "d8518dfd973f51dc28528f6a3e1ffbed29cb3790c33dda94c2570fcff0685fe5"
 

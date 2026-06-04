@@ -43,6 +43,7 @@
 !/config/biomeswevegone
 /config/biomeswevegone/*
 !/config/biomeswevegone/world_generation.json5
+!/config/betterf3.toml
 
 # paxi
 !/config/paxi
