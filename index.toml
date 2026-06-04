@@ -21,6 +21,10 @@ file = "config/create-server.toml"
 hash = "83497bb5f4afb378037cf49683d5004b069199a2d53577c6696f9ef5ceb86161"
 
 [[files]]
+file = "config/createbigcannons-server.toml"
+hash = "78e09754acf4a6bd2780500295c4c5505e13a87bb1e3704b4a4ae5a766d62ca6"
+
+[[files]]
 file = "config/doubledoors.json5"
 hash = "a23cf3dc63cde5c5f3310265841fe933c7e51b1d54de056694c7adbf02489b3c"
 
