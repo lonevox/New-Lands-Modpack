@@ -559,11 +559,19 @@ hash = "b91421c2b0d8aa1843acd33012f19c6fceb136b48253fdb9b8c634d1d92921b1"
 
 [[files]]
 file = "kubejs/data/biomeswevegone/worldgen/placed_feature/dripstone_rounded_rock.json"
-hash = "8dee64bd48c601c3b236bbb99dba9b76185d0b12b4c37f45e87419329bcfe1f8"
+hash = "6324161da4ca9b20b53081955cbce5e6974a6cb16c5ff3d92fc747d1ea294c6e"
 
 [[files]]
 file = "kubejs/data/biomeswevegone/worldgen/placed_feature/lush_rounded_rock.json"
-hash = "a824b5fab3dd905ce13a17d8f1bbb48a0c012c4c5eab64222dddc5e835fa0402"
+hash = "c4b08d7e2a40002a32a19e63d0d5f71326d4e3b475473c993eb4b173a09e4b77"
+
+[[files]]
+file = "kubejs/data/biomeswevegone/worldgen/structure_set/dripstone_arches.json"
+hash = "bd84469bced94dbf63941e8d7e27741542e29a69d0074c9bdf2170ff3514500c"
+
+[[files]]
+file = "kubejs/data/biomeswevegone/worldgen/structure_set/lush_arch.json"
+hash = "1cc7956cb87eca615892f741088c30bdbf585a20d00f2bdbf7bfbed740f5e70b"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension_type/overworld.json"
