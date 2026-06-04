@@ -6,7 +6,9 @@
       "plushie_buddies:stuffing",
       "plushie_buddies:thread",
       "plushie_buddies:sewing_needle",
-      "plushie_buddies:fabric"
+      "plushie_buddies:fabric",
+      "artifacts:everlasting_beef",
+      "artifacts:eternal_steak"
     ]
   }
 ]

@@ -243,7 +243,7 @@ hash = "e7d5b4e89834be2336fc9e3f67b4fcd8d378e8496617aef9301b69cde0e0b218"
 
 [[files]]
 file = "config/reliable_remover/items.json"
-hash = "d0c9d00704143b08a0c9a5c1b2734af9e38e0c260e58b7bc018d62c9f2b682cb"
+hash = "c04ec852282abaa3c9fa914ce7058db16c049fe691763623c5ad70847ef0823d"
 
 [[files]]
 file = "config/sounds/chat.json"
